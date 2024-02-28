@@ -2,6 +2,7 @@
 
 ## 说明
 该仓库为自用构建 Cloudreve Docker，以方便使用环境变量直接配置 MySQL 连接信息。
+对应二进制文件，自行于 [Cloudreve](https://github.com/cloudreve/Cloudreve) 官方仓库下载。
 相关信息均来源于 [Cloudreve](https://github.com/cloudreve/Cloudreve) 官方仓库。
 
 ## 环境变量
